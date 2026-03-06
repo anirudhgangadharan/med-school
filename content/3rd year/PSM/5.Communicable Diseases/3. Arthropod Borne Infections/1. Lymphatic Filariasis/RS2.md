@@ -117,7 +117,7 @@
 	
 	- **Mechanism:** Microfilariae can be artificially induced to appear in the peripheral blood during the daytime by administering a provocative dose of the drug Diethylcarbamazine (DEC).
 	- **Dosage & Timing:** The patient is given **100 mg of DEC orally**. The microfilariae begin to reach their peak concentration in the blood within 15 minutes. The blood sample is ideally collected and examined **one hour** after the administration of the drug.
-	1. **Filarial Indices 
+1. **Filarial Indices 
 	**FILARIAL INDICES (ASSESSMENT PARAMETERS)**
 	
 	The effect of a filariasis control programme and the endemicity of the disease in a community are assessed using three main categories of indices or parameters: Clinical, Parasitological, and Entomological.

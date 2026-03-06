@@ -155,37 +155,37 @@
 	- **Promotion of Institutional Deliveries:** Schemes like _Janani Suraksha Yojana (JSY)_ provide conditional cash transfers to encourage women to deliver in health facilities, ensuring a hygienic environment.
 	- **Community Mobilization:** Engagement of Accredited Social Health Activists (ASHAs) to generate demand for antenatal care, educate families on safe cord care practices, and facilitate institutional deliveries.
 	- **Strengthening Surveillance:** Active surveillance to identify women at risk and detect any potential clustering of neonatal tetanus cases.
-1. Fernandez reaction.
-**FERNANDEZ REACTION (EARLY LEPROMIN REACTION)**
-
-**1. INTRODUCTION**
-
-- The Fernandez reaction is the "early reaction" observed during the Lepromin test, which is performed by injecting 0.1 ml of lepromin intradermally into the inner aspect of the forearm.
-- It is primarily used as a tool to evaluate the cell-mediated immunity (immune status) of an individual.
-
-**2. TIMING AND DURATION**
-
-- An inflammatory response develops rapidly within 24 to 48 hours following the injection.
-- The reaction is transient and tends to disappear after 3 to 4 days.
-
-**3. IMMUNOLOGICAL BASIS**
-
-- The Fernandez reaction is a delayed hypersensitivity reaction.
-- It is specifically induced by the "soluble" constituents (antigens) of the leprosy bacilli, unlike the late reaction which is induced by the bacillary component.
-
-**4. CLINICAL FEATURES AND CRITERIA FOR POSITIVITY**
-
-- The reaction is physically evidenced by redness and induration at the site of inoculation.
-- **Positive Result:** The test is read at 48 hours, and it is considered positive if the diameter of the red area is more than 10 mm.
-
-**5. EPIDEMIOLOGICAL AND CLINICAL SIGNIFICANCE**
-
-- An early positive reaction indicates whether or not a person has been previously sensitized by exposure to, and infection by, the leprosy bacilli.
-- In the context of detecting prior sensitization, the early (Fernandez) reaction is considered much superior to the late (Mitsuda) reaction.
-
-**6. ANALOGY**
-
-- The Fernandez reaction corresponds directly to the Mantoux reaction seen in tuberculosis, which is similarly caused by delayed hypersensitivity to the soluble antigens (PPD) of the tubercle bacilli.
+	1. Fernandez reaction.
+	**FERNANDEZ REACTION (EARLY LEPROMIN REACTION)**
+	
+	**1. INTRODUCTION**
+	
+	- The Fernandez reaction is the "early reaction" observed during the Lepromin test, which is performed by injecting 0.1 ml of lepromin intradermally into the inner aspect of the forearm.
+	- It is primarily used as a tool to evaluate the cell-mediated immunity (immune status) of an individual.
+	
+	**2. TIMING AND DURATION**
+	
+	- An inflammatory response develops rapidly within 24 to 48 hours following the injection.
+	- The reaction is transient and tends to disappear after 3 to 4 days.
+	
+	**3. IMMUNOLOGICAL BASIS**
+	
+	- The Fernandez reaction is a delayed hypersensitivity reaction.
+	- It is specifically induced by the "soluble" constituents (antigens) of the leprosy bacilli, unlike the late reaction which is induced by the bacillary component.
+	
+	**4. CLINICAL FEATURES AND CRITERIA FOR POSITIVITY**
+	
+	- The reaction is physically evidenced by redness and induration at the site of inoculation.
+	- **Positive Result:** The test is read at 48 hours, and it is considered positive if the diameter of the red area is more than 10 mm.
+	
+	**5. EPIDEMIOLOGICAL AND CLINICAL SIGNIFICANCE**
+	
+	- An early positive reaction indicates whether or not a person has been previously sensitized by exposure to, and infection by, the leprosy bacilli.
+	- In the context of detecting prior sensitization, the early (Fernandez) reaction is considered much superior to the late (Mitsuda) reaction.
+	
+	**6. ANALOGY**
+	
+	- The Fernandez reaction corresponds directly to the Mantoux reaction seen in tuberculosis, which is similarly caused by delayed hypersensitivity to the soluble antigens (PPD) of the tubercle bacilli.
 
 5. Treatment for leprosy.
 	

@@ -82,7 +82,7 @@
 	- Continuous surveillance is necessary to monitor circulating virus strains and detect genetic mutations (antigenic shifts/drifts).
 	- Surveillance data directly dictates the specific viral strains to be included in the annual influenza vaccine formulations.
 	- It aids in estimating morbidity and mortality impacts and rapidly detecting sudden epidemic or pandemic outbreaks.
-3. Influenza vaccine. (J10(RS2))
+1. Influenza vaccine  
 	**INFLUENZA VACCINE**
 	
 	**1. INTRODUCTION**
