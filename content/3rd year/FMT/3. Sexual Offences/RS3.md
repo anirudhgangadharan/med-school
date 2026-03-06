@@ -337,4 +337,51 @@ The doctor **must never make a diagnosis of rape**, as it is a legal determinati
 
 - In habitual passive agents, the anal margin is **smooth and thickened**, the sphincter tone is lost, and the anus may be patulous and dilated (funnel-shaped depression).
 - **Crucial Caveat:** Opinion as to the cause of anal dilatation must be guarded, as it can be congenital or due to other diseases/practices.
+
 9. Sodomy (define, findings in habitual passive agent).
+### SODOMY AND FINDINGS IN A HABITUAL PASSIVE AGENT
+
+**I. DEFINITION & MEDICOLEGAL CONCEPTS (🥇 High-Yield)**
+
+- **Definition:** Sodomy (also known as buggery) is defined as anal intercourse between two males, or between a male and a female.
+- **Legal Classification:** It falls under unnatural sexual offences and is punishable under **Section 377 of the Indian Penal Code (IPC)** (Voluntary carnal intercourse against the order of nature).
+- **Terminology:** The inserting partner is the _active agent_, while the receiving partner is the _passive agent_. A habitual passive agent is formally called a **catamite**. In India, _Hijras_ (castrated males) and _Zenanas_ (male transvestites) frequently act as habitual passive agents.
+
+**II. FINDINGS IN A HABITUAL PASSIVE AGENT (🚨 Exam Target)** In stark contrast to a victim unaccustomed to sodomy (who presents with acute pain, fresh fissures, bruising, and spasm), the habitual passive agent exhibits chronic adaptive and anatomical changes.
+
+**1. Anal Sphincter & Tone**
+
+- The anal sphincter loses its tone, becoming permanently dilated, lax, and patulous.
+- The sphincter muscle fails to contract reflexly when the skin around it is pinched.
+- **Digital Examination:** The anus easily and painlessly admits **3 to 4 fingers**, indicating chronic dilatation.
+
+**2. Skin and Mucosal Changes**
+
+- **Perianal Skin:** The skin around the anus becomes smooth, thickened, and keratinised due to constant friction, extending up into the anal canal to the mucocutaneous junction.
+- **Mucosa:** There is an epithelisation of the mucosa and a distinct **loss of the normal fine wrinkles (rugosity)**.
+- **Rectum:** May show prolapsed mucosa with thickening and disappearance of the normal radial folds.
+
+**3. Associated Scars and Lesions**
+
+- Presence of old and fresh anal fissures, healed scars, and sinuses (tunneling) are hallmark findings.
+- Piles (hemorrhoids) and fissures are highly common in older habitual sodomites.
+
+**4. Buttock Anatomy**
+
+- There is a slight depression of the buttocks towards the anus due to the absorption of regional fat.
+- A **funnel-shaped anus** may be seen, though this can sometimes be a normal anatomical variant.
+
+**5. Hygiene and Trace Evidence**
+
+- Perianal hair is frequently found shaved and local hygiene is scrupulously maintained.
+- Unlike acute assault, blood stains are usually **absent**. Lubricants and loose foreign pubic hair may or may not be present.
+
+**6. Sexually Transmitted Diseases (STDs)**
+
+- There is a high incidence of associated STDs; look for condylomata (genital warts), syphilitic chancre, or gonorrhoeal discharge around the anal region.
+
+**III. 🥇 CLINICAL PEARL: LATERAL BUTTOCK TRACTION TEST**
+
+- **Technique:** The examiner places a thumb on each side of the anus and applies lateral outward traction.
+- **Normal Response:** In individuals not accustomed to sodomy, this maneuver elicits a reflex constriction (spasm) of the anal sphincter.
+- **Positive Test (Habitual Agent):** In a habitual passive agent, there is a complete relaxation of the sphincter with wide, passive dilation of the anal opening (often 4 to 5 cm in diameter), allowing the interior of the rectum to be clearly visualized.
