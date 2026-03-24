@@ -1,1 +1,0 @@
-Aminoglycoside antibiotic
