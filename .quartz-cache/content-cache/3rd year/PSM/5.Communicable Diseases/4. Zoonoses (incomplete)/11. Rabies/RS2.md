@@ -1,0 +1,10 @@
+Describe the epidemiology of Rabies and its prevention and control in India (write in short about the schedule of cell culture vaccine in prevention of rabies). [D08(RS2), J10]
+Antirabies immunization in class III exposure. [J03]
+Intradermal rabies vaccination. [J05]
+Write the pre-exposure prophylaxis for rabies. [J04]
+Modes of transmission of Rabies. [D09(RS2)]
+List the vaccines against Rabies as postexposure prophylaxis. [D07]
+What are the indications for antirabies treatment? [D08]
+Describe the intradermal schedules of cell culture vaccine for Rabies. [J07]
+Describe the pre-exposure prophylaxis for Rabies. [J06]
+

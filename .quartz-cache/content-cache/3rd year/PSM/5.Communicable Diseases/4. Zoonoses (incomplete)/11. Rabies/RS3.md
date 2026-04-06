@@ -1,0 +1,5 @@
+Postexposure prophylaxis in rabies/dog bite (antirabies immunoprophylaxis). [J13(RS3), D17(RS3), J18(RS3), J19(RS3), J08, J15, J17]
+Antirabies vaccines. [S21(RS3), D05]
+Advantages of intradermal rabies vaccine. [D13(RS3)]
+Postexposure prophylaxis of Rabies. [D12(RS3), D13]
+Urban rabies—control. [J14(RS3), M21(RS3)]
